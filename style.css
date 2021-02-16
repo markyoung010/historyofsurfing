@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  font-family: "Roboto Mono", sans-serif;
+}
+
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad8e3bf4-f9db-4334-afac-b1ddbea2cece/dyzhk1-1f5f55e1-8527-4093-83c3-b62496b5ac8c.jpg/v1/fill/w_600,h_400,q_75,strp/surf_carzy_by_mataleonerj.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hZDhlM2JmNC1mOWRiLTQzMzQtYWZhYy1iMWRkYmVhMmNlY2UvZHl6aGsxLTFmNWY1NWUxLTg1MjctNDA5My04M2MzLWI2MjQ5NmI1YWM4Yy5qcGciLCJ3aWR0aCI6Ijw9NjAwIiwiaGVpZ2h0IjoiPD00MDAifV1dfQ.dqPjg5EMxpy7n9iNs1gH7f9Clvf1rrJ3jZyHLLqQO0Q");
+
+  color: goldenrod;
+  font-family: "Roboto Mono", sans-serif;
+}
+
+img {
+  width: 200px;
+}
